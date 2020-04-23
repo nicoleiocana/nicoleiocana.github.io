@@ -330,10 +330,6 @@ ul.contact__ul--container {
         margin-top: 0;
     }
 
-    .projects__ul--wrapper {
-        grid-template-columns: repeat(3, 1fr);
-    }
-
     .icon {
         width: 18px;
         height: 18px;
@@ -409,7 +405,7 @@ ul.contact__ul--container {
     }
 
     .contact__ul--container {
-        grid-template-columns: repeat(5, auto);
+        grid-template-columns: repeat(3, auto);
     }
 
     .icon {
@@ -417,4 +413,3 @@ ul.contact__ul--container {
         height: 20px;
     }
 }
-    
