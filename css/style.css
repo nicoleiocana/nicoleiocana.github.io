@@ -172,16 +172,8 @@ header[data-theme="dark"],
     padding: 20px 1rem 3rem;
 }
 
-.profile__pic--container {
-    position: relative;
-}
-
 .author__image {
     border-radius: 100%;
-}
-
-.profile__caption {
-    display: none;
 }
 
 .personal__blurb {
@@ -348,19 +340,6 @@ ul.contact__ul--container {
     .profile__container {
         padding-left: 2rem;
         padding-right: 2rem;
-    }
-
-    .profile__caption {
-        display: block;
-        font-size: 59%;
-        width: 77%;
-        color: #DEDEDE;
-        letter-spacing: 1px;
-        border-radius: 30px;
-        position: absolute;
-        top: 17%;
-        left: 51%;
-        transform: translate(-50%, -17%);
     }
 
     .skills__container {
