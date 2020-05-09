@@ -5,8 +5,8 @@
         <link>https://nicoleiocana.github.io/blog/</link>
         <description>2020 Outreachy Internship Blog</description>
         <language>en-us</language>
-        <managingEditor>nicoleiocana@gmail.com</managingEditor>
-        <webMaster>nicoleiocana@gmail.com</webMaster>
+        <managingEditor>nicoleiocana@gmail.com (Nicolei Ocana)</managingEditor>
+        <webMaster>nicoleiocana@gmail.com (Nicolei Ocana)</webMaster>
         <copyright>Copyright (c)2020</copyright>
         <pubDate>Sat, 09 May 2020 02:00:00 GMT</pubDate>
         <lastBuildDate>Sat, 09 May 2020 02:05:00 GMT</lastBuildDate>
@@ -30,7 +30,7 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
-            <author>nicoleiocana@gmail.com</author>
+            <author>nicoleiocana@gmail.com (Nicolei Ocana)</author>
         </item>
         <item>
             <title>Blog Post 2</title>
@@ -45,7 +45,7 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
-            <author>nicoleiocana@gmail.com</author>
+            <author>nicoleiocana@gmail.com (Nicolei Ocana)</author>
         </item>
         <item>
             <title>Blog Post 1</title>
@@ -60,7 +60,7 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
-            <author>nicoleiocana@gmail.com</author>
+            <author>nicoleiocana@gmail.com (Nicolei Ocana)</author>
         </item>
     </channel>
 </rss>
