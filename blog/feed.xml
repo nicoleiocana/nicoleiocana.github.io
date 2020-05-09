@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Nicolei Ocana's Blog</title>
+        <link>https://nicoleiocana.github.io/blog/</link>
+        <description>2020 Outreachy Internship Blog</description>
+        <language>en-us</language>
+        <managingEditor>nicoleiocana@gmail.com</managingEditor>
+        <webMaster>nicoleiocana@gmail.com</webMaster>
+        <copyright>Copyright (c)2020</copyright>
+        <pubDate>Fri, 08 May 2020 18:17:00 PST</pubDate>
+        <lastBuildDate>Fri, 08 May 2020 18:36:00 PST</lastBuildDate>
+        <image>
+            <title>Nicolei Ocana's Blog</title>
+            <link>https://nicoleiocana.github.io/blog/</link>
+            <url>https://nicoleiocana.github.io/img/fenix-144.png</url>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <item>
+            <title>Blog Post 3</title>
+            <link>https://nicoleiocana.github.io/blog/#3</link>
+            <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#3</guid>
+            <pubDate>Fri, 08 May 2020 18:32:00 PST</pubDate>
+            <description>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </description>
+            <author>nicoleiocana@gmail.com</author>
+        </item>
+        <item>
+            <title>Blog Post 2</title>
+            <link>https://nicoleiocana.github.io/blog/#2</link>
+            <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#2</guid>
+            <pubDate>Fri, 08 May 2020 18:31:00 PST</pubDate>
+            <description>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </description>
+        </item>
+        <item>
+            <title>Blog Post 1</title>
+            <link>https://nicoleiocana.github.io/blog/#1</link>
+            <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#1</guid>
+            <pubDate>Fri, 08 May 2020 18:30:00 PST</pubDate>
+            <description>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </description>
+        </item>
+    </channel>
+</rss>
