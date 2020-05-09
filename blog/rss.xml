@@ -9,7 +9,7 @@
         <webMaster>nicoleiocana@gmail.com (Nicolei Ocana)</webMaster>
         <copyright>Copyright (c)2020</copyright>
         <pubDate>Sat, 09 May 2020 02:00:00 GMT</pubDate>
-        <lastBuildDate>Sat, 09 May 2020 02:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2020 16:15:00 GMT</lastBuildDate>
         <image>
             <title>Nicolei Ocana's Blog</title>
             <link>https://nicoleiocana.github.io/blog/</link>
@@ -17,6 +17,20 @@
             <width>144</width>
             <height>144</height>
         </image>
+        <item>
+            <title>A Title with Enthusiasm! Not This One, the Main Blog Title</title>
+            <link>https://nicoleiocana.github.io/blog/#4</link>
+            <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#4</guid>
+            <pubDate>Sat, 09 May 2020 16:15:00 GMT</pubDate>
+            <description>
+                I actually took the time to come up with something creative and enticing as my
+                blog title. I adapted (okay, maybe just straight out stole) the 2019 theme of the
+                Tor Project. Plus, behing the seen, I modified the information in my
+                meta tag to help with SEO. Oh yeah, I added a publishing footer for each
+                blog post.
+            </description>
+            <author>nicoleiocana@gmail.com (Nicolei Ocana)</author>
+        </item>
         <item>
             <title>Blog Post 3</title>
             <link>https://nicoleiocana.github.io/blog/#3</link>
