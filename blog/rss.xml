@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nicolei Ocana's Blog</title>
         <link>https://nicoleiocana.github.io/blog/</link>
         <description>2020 Outreachy Internship Blog</description>
         <language>en-us</language>
-        <managingEditor>nicoleiocana@gmail.com</managingEditor>
-        <webMaster>nicoleiocana@gmail.com</webMaster>
+        <managingEditor>Nicolei Ocana</managingEditor>
+        <webMaster>Nicolei Ocana</webMaster>
         <copyright>Copyright (c)2020</copyright>
-        <pubDate>Fri, 08 May 2020 18:17:00 PST</pubDate>
-        <lastBuildDate>Fri, 08 May 2020 18:36:00 PST</lastBuildDate>
+        <pubDate>Fri, 08 May 2020 18:17:00 -0800</pubDate>
+        <lastBuildDate>Fri, 08 May 2020 19:00:00 -0800</lastBuildDate>
         <image>
             <title>Nicolei Ocana's Blog</title>
             <link>https://nicoleiocana.github.io/blog/</link>
@@ -21,7 +21,7 @@
             <title>Blog Post 3</title>
             <link>https://nicoleiocana.github.io/blog/#3</link>
             <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#3</guid>
-            <pubDate>Fri, 08 May 2020 18:32:00 PST</pubDate>
+            <pubDate>Fri, 08 May 2020 18:32:00 -0800</pubDate>
             <description>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -30,13 +30,13 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
-            <author>nicoleiocana@gmail.com</author>
+            <author>Nicolei Ocana</author>
         </item>
         <item>
             <title>Blog Post 2</title>
             <link>https://nicoleiocana.github.io/blog/#2</link>
             <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#2</guid>
-            <pubDate>Fri, 08 May 2020 18:31:00 PST</pubDate>
+            <pubDate>Fri, 08 May 2020 18:31:00 -0800</pubDate>
             <description>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -45,12 +45,13 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
+            <author>Nicolei Ocana</author>
         </item>
         <item>
             <title>Blog Post 1</title>
             <link>https://nicoleiocana.github.io/blog/#1</link>
             <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#1</guid>
-            <pubDate>Fri, 08 May 2020 18:30:00 PST</pubDate>
+            <pubDate>Fri, 08 May 2020 18:30:00 -0800</pubDate>
             <description>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -59,6 +60,8 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </description>
+            <author>Nicolei Ocana</author>
         </item>
+        <atom:link href="https://nicoleiocana.github.io/blog/rss.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
