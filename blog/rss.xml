@@ -9,7 +9,7 @@
         <webMaster>nicoleiocana@gmail.com (Nicolei Ocana)</webMaster>
         <copyright>Copyright (c)2020</copyright>
         <pubDate>Sat, 09 May 2020 02:00:00 GMT</pubDate>
-        <lastBuildDate>Sun, 10 May 2020 15:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2020 13:30:00 GMT</lastBuildDate>
         <image>
             <title>Nicolei Ocana's Blog</title>
             <link>https://nicoleiocana.github.io/blog/</link>
@@ -17,21 +17,5 @@
             <width>144</width>
             <height>144</height>
         </image>
-        <item>
-            <title>Anything, Not Everything</title>
-            <link>https://nicoleiocana.github.io/blog/#5</link>
-            <guid isPermaLink="true">https://nicoleiocana.github.io/blog/#5</guid>
-            <pubDate>Sun, 10 May 2020 15:40:00 GMT</pubDate>
-            <description>
-                A reocurring concern as a developing software engineer (SWE) is the notion
-                that one must know everything. This is misleading; I openly admit that I
-                don't know everything. I don't have enough time to master each and
-                every aspect of the programming involved, no one does. The demonstration
-                of our web development expertise is to efficiently and effectively
-                identify where to locate information and become proficient in the current role.
-                I know where to find anything so that I do not need to know everything.
-            </description>
-            <author>nicoleiocana@gmail.com (Nicolei Ocana)</author>
-        </item>
     </channel>
 </rss>
